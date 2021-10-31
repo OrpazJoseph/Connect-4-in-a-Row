@@ -13,6 +13,6 @@ Connect Four is a solved game. The first player can always win by playing the ri
 Project is created with:
 * C#
 * WinForms
-* Player Vs Player or Player vs Pc Mods
+* Player Vs Player or Player vs PC mods
 * User can choose different size (4X4) - (10X10)
 * When P1vsP2 is chosen, the program sets random player to start
