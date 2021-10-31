@@ -1,4 +1,4 @@
-## Language Learn
+## Connect 4 in a Row
 
 Creators: Orpaz Joseph and Dimitri Khait
 
