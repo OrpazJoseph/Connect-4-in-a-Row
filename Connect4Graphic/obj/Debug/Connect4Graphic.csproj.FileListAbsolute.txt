@@ -1,0 +1,12 @@
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Graphic\bin\Debug\Connect4Graphic.exe
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Graphic\bin\Debug\Connect4Graphic.pdb
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Graphic\bin\Debug\Connect4Logic.dll
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Graphic\bin\Debug\Connect4Logic.pdb
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Graphic\obj\Debug\Connect4Graphic.csprojAssemblyReference.cache
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Graphic\obj\Debug\Connect4Graphic.FormGame.resources
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Graphic\obj\Debug\Connect4Graphic.Properties.Resources.resources
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Graphic\obj\Debug\Connect4Graphic.csproj.GenerateResource.cache
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Graphic\obj\Debug\Connect4Graphic.csproj.CoreCompileInputs.cache
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Graphic\obj\Debug\Connect4Graphic.csproj.CopyComplete
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Graphic\obj\Debug\Connect4Graphic.exe
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Graphic\obj\Debug\Connect4Graphic.pdb

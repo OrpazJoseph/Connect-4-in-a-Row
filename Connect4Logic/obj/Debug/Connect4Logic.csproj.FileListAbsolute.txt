@@ -1,0 +1,6 @@
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Logic\bin\Debug\Connect4Logic.dll
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Logic\bin\Debug\Connect4Logic.pdb
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Logic\obj\Debug\Connect4Logic.csprojAssemblyReference.cache
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Logic\obj\Debug\Connect4Logic.csproj.CoreCompileInputs.cache
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Logic\obj\Debug\Connect4Logic.dll
+C:\Users\Orpaz\Downloads\C#\מטלות\מטלה 5\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\C21 Ex05  OrpazJoseph 205702350 DimitriKhait 318050945\Connect4Logic\obj\Debug\Connect4Logic.pdb
